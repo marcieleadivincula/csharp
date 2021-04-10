@@ -1,2 +1,2 @@
-# csharp
+# C#
 Exercícios feitos durante cursos online.
