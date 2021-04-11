@@ -17,7 +17,7 @@ namespace Terceiro
             //Trunca o resultado para inteiro
             Console.WriteLine(resultado); //2
 
-            resultado = (double) a / b;
+            resultado = (double)a / b;
 
             //Para que não aconteça precisamos fazer um casting
             Console.WriteLine(resultado); //2.5
@@ -29,7 +29,7 @@ namespace Terceiro
             // y = x; //Assim não dá, precisamos fazer um casting
             y = (int)x;
 
-            Console.WriteLine(y); //
+            Console.WriteLine(y); 
         }
     }
 }

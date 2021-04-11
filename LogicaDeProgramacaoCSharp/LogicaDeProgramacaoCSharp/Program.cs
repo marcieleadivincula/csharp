@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Parte2
+namespace LogicaDeProgramacaoCSharp
 {
     class Program
     {
