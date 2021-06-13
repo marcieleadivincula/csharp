@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpParte6StringsExpressoesRegularesEAClasseObject
+namespace ByteBank
 {
     class Program
     {

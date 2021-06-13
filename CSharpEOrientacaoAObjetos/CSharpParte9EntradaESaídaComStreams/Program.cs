@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpParte9EntradaESaídaComStreams
+namespace ByteBank
 {
     class Program
     {

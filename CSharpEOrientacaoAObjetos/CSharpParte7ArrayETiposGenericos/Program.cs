@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpParte7ArrayETiposGenericos
+namespace ByteBank
 {
     class Program
     {

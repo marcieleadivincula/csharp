@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpParte3EntendendoHerancaEInterface
+namespace Bytebank
 {
     class Program
     {

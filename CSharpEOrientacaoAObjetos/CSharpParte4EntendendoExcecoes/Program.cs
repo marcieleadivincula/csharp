@@ -1,12 +1,15 @@
-﻿using System;
+﻿using Bytebank;
+using System;
 
-namespace CSharpParte4EntendendoExcecoes
+namespace ByteBank
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ContaCorrente conta = new ContaCorrente(7480, 874150);
+
+            Console.WriteLine(ContaCorrente.TaxaOperacao);
         }
     }
 }

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpParte5BibliotecasDLLsDocumentacaoEUsandoONuGet
+namespace ByteBank
 {
     class Program
     {

@@ -7,17 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-PrimeiroProjeto", "CSharp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bytebank", "CSharpParte3EntendendoHerancaEInterface\Bytebank.csproj", "{584FE778-7DD1-4BF3-85C8-9B1660C48693}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parte4EntendendoExcecoes", "CSharpParte4EntendendoExcecoes\Parte4EntendendoExcecoes.csproj", "{FEC01503-D66E-4FEA-97E2-14027BDED308}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "CSharpParte4EntendendoExcecoes\ByteBank.csproj", "{FEC01503-D66E-4FEA-97E2-14027BDED308}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parte5BibliotecasDLLsDocumentacaoEUsandoONuGet", "CSharpParte5BibliotecasDLLsDocumentacaoEUsandoONuGet\Parte5BibliotecasDLLsDocumentacaoEUsandoONuGet.csproj", "{FCDA618F-74D4-47D7-8557-F88361F96E6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "CSharpParte5BibliotecasDLLsDocumentacaoEUsandoONuGet\ByteBank.csproj", "{FCDA618F-74D4-47D7-8557-F88361F96E6E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parte6StringsExpressoesRegularesEAClasseObject", "CSharpParte6StringsExpressoesRegularesEAClasseObject\Parte6StringsExpressoesRegularesEAClasseObject.csproj", "{916AF259-1FBC-4B2F-B94A-0F396B6823A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "CSharpParte6StringsExpressoesRegularesEAClasseObject\ByteBank.csproj", "{916AF259-1FBC-4B2F-B94A-0F396B6823A9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parte7ArrayETiposGenericos", "CSharpParte7ArrayETiposGenericos\Parte7ArrayETiposGenericos.csproj", "{792F23E2-923B-403B-B263-00611DBE5082}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "CSharpParte7ArrayETiposGenericos\ByteBank.csproj", "{792F23E2-923B-403B-B263-00611DBE5082}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parte8ListLambdaLinq", "CSharpParte8ListLambdaLinq\Parte8ListLambdaLinq.csproj", "{D40A8E58-37C8-40E8-A36F-D816D4E30C92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "CSharpParte8ListLambdaLinq\ByteBank.csproj", "{D40A8E58-37C8-40E8-A36F-D816D4E30C92}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parte9EntradaESaídaComStreams", "CSharpParte9EntradaESaídaComStreams\Parte9EntradaESaídaComStreams.csproj", "{F70034FB-A08E-4D65-BC3F-59F1BBA5C5A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "CSharpParte9EntradaESaídaComStreams\ByteBank.csproj", "{F70034FB-A08E-4D65-BC3F-59F1BBA5C5A9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parte1PrimeirosPassos", "Parte1PrimeirosPassos", "{684EEB16-91B6-4AE1-A80C-0874056E3312}"
 EndProject

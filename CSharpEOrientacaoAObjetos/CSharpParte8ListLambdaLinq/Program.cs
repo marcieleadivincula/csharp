@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpParte8ListLambdaLinq
+namespace ByteBank
 {
     class Program
     {
